@@ -33,7 +33,7 @@ class _TestAppState extends State<TestApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('WISHLIST' ,style: TextStyle(
+          title: Text('WISHLIST add text' ,style: TextStyle(
             fontWeight:FontWeight.w400,
             fontSize: 30,
           ),),
